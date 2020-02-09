@@ -1091,8 +1091,8 @@
      padding-top: 125px;
      padding-bottom: 150px;
      background-color: #eee;
-     background-image: -webkit-linear-gradient(4deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/bim.jpg");
-     background-image: linear-gradient(86deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/bim.jpg");
+     background-image: -webkit-linear-gradient(4deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/vrinarchi.jpg");
+     background-image: linear-gradient(86deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/vrinarchi.jpg");
      background-position: 0px 0px, 100% 50%;
      background-size: auto, auto 600px;
      background-repeat: repeat, no-repeat;
