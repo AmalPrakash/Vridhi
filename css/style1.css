@@ -1098,6 +1098,38 @@
      background-repeat: repeat, no-repeat;
    }
 
+   .image-section.ui-section6 {
+    padding-top: 125px;
+    padding-bottom: 150px;
+    background-color: #eee;
+    background-image: -webkit-linear-gradient(4deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/Scaffolding_Berlin.jpg");
+    background-image: linear-gradient(86deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/Scaffolding_Berlin.jpg");
+    background-position: 0px 0px, 100% 50%;
+    background-size: auto, auto 600px;
+    background-repeat: repeat, no-repeat;
+  }
+
+   .image-section.ui-section5 {
+    padding-top: 125px;
+    padding-bottom: 150px;
+    background-color: #eee;
+    background-image: -webkit-linear-gradient(4deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/archwall.jpg");
+    background-image: linear-gradient(86deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/archwall.jpg");
+    background-position: 0px 0px, 100% 50%;
+    background-size: auto, auto 600px;
+    background-repeat: repeat, no-repeat;
+  }
+   .image-section.ui-section4 {
+    padding-top: 125px;
+    padding-bottom: 150px;
+    background-color: #eee;
+    background-image: -webkit-linear-gradient(4deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/V5CytgBWofF6RYsTrX86hLia.jpeg");
+    background-image: linear-gradient(86deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/V5CytgBWofF6RYsTrX86hLia.jpeg");
+    background-position: 0px 0px, 100% 50%;
+    background-size: auto, auto 600px;
+    background-repeat: repeat, no-repeat;
+  }
+
    .image-section.ui-section2 {
     padding-top: 125px;
     padding-bottom: 150px;
@@ -3751,7 +3783,7 @@
      width: 100%;
      height: 240px;
      border-radius: 5px;
-     background-image: url("http://uploads.webflow.com/577a17a71a78df7357099a96/577e02073a9f1a3f15342340_Photo-7.jpg");
+     background-image: url("/images/2018.jpg");
      background-position: 50% 50%;
      background-size: cover;
    }
