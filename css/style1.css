@@ -1109,6 +1109,28 @@
     background-repeat: repeat, no-repeat;
   }
 
+  .image-section.ui-section7 {
+    padding-top: 125px;
+    padding-bottom: 150px;
+    background-color: #eee;
+    background-image: -webkit-linear-gradient(4deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/marathon.jpg");
+    background-image: linear-gradient(86deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/marathon.jpg");
+    background-position: 0px 0px, 100% 50%;
+    background-size: auto, auto 600px;
+    background-repeat: repeat, no-repeat;
+  }
+
+  .image-section.ui-section8 {
+    padding-top: 125px;
+    padding-bottom: 150px;
+    background-color: #eee;
+    background-image: -webkit-linear-gradient(4deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/nointernet.jpg");
+    background-image: linear-gradient(86deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/nointernet.jpg");
+    background-position: 0px 0px, 100% 50%;
+    background-size: auto, auto 600px;
+    background-repeat: repeat, no-repeat;
+  }
+
    .image-section.ui-section5 {
     padding-top: 125px;
     padding-bottom: 150px;
@@ -1134,8 +1156,8 @@
     padding-top: 125px;
     padding-bottom: 150px;
     background-color: #eee;
-    background-image: -webkit-linear-gradient(4deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/zoozoofight.jpg");
-    background-image: linear-gradient(86deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/zoozoofight.jpg");
+    background-image: -webkit-linear-gradient(4deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/debate.jpg");
+    background-image: linear-gradient(86deg, #eee 39%, hsla(0, 0%, 93%, .2)), url("/images/debate.jpg");
     background-position: 0px 0px, 100% 50%;
     background-size: auto, auto 600px;
     background-repeat: repeat, no-repeat;
